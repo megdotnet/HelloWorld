@@ -1,2 +1,2 @@
-$ver = 1
-Write-Host "Hello World! v$ver"
+$ver = 2
+Write-Host "Hello World! $ver"
